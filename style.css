@@ -1,0 +1,39 @@
+@font-face {
+    font-family: Agdasima;
+    src: url("Agdasima-Regular.ttf");
+}
+
+
+h2 {
+    text-decoration: overline;
+    text-transform: uppercase;
+    font-family: Agdasima;
+}
+
+h3 {
+    text-decoration: line-through;
+    text-transform: lowercase;
+    color: green !important;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 60px;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.text-red {
+    color: red;
+}
